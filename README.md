@@ -28,3 +28,4 @@ Simple Ruby implementation of John Conway's Game of Life
 
 - Input validation
 - Multidimensional game support
+- Unit testing
